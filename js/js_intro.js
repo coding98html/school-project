@@ -2,6 +2,6 @@ function myFunction() {
     this.alert("See?")
 }
 
-function func() {
-    getElementById('changeStuff').innerHTML = "Changed!"
+function myFunctionText() {
+    getElementById("changeStuff").innerHTML = "Changed!"
 }
