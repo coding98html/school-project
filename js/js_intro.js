@@ -1,3 +1,3 @@
-function onclick1 (
+function myFunction(
     this.alert('See?')
 )
