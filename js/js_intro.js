@@ -1,3 +1,3 @@
 function myFunction() {
-    this.alert('See?')
+    this.alert("See?")
 }
