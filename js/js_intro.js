@@ -3,5 +3,5 @@ function myFunction() {
 }
 
 function myFunctionText() {
-    document.getElementById("changeStuff").innerHTML = "Changed!"
+    document.getElementById("changeStuff").innerHTML = "Magic!"
 }
